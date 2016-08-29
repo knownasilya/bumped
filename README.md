@@ -4,7 +4,7 @@
   <br>
   <img src="http://i.imgur.com/DmMbFwL.png" alt="bumped">
   <br>
-  Makes easy release software.
+  Makes it easy to release software.
   <br>
   <br>
 </h1>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/tag/bumped/bumped.svg?style=flat-square" alt="Last version"> <a href="https://travis-ci.org/bumped/bumped"><img src="http://img.shields.io/travis/bumped/bumped/master.svg?style=flat-square" alt="Build Status"></a> <a href="https://coveralls.io/github/bumped/bumped"><img src="https://img.shields.io/coveralls/bumped/bumped.svg?style=flat-square" alt="Coverage Status"></a> <a href="https://paypal.me/kikobeats"><img src="https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square" alt="Donate"></a><br><a href="https://david-dm.org/bumped/bumped"><img src="http://img.shields.io/david/bumped/bumped.svg?style=flat-square" alt="Dependency status"></a> <a href="https://david-dm.org/bumped/bumped#info=devDependencies"><img src="http://img.shields.io/david/dev/bumped/bumped.svg?style=flat-square" alt="Dev Dependencies Status"></a> <a href="https://www.npmjs.org/package/bumped"><img src="http://img.shields.io/npm/dm/bumped.svg?style=flat-square" alt="NPM Status"></a>
 </p>
 
-Bumped is a release system that make it easy to perform actions **before** and **after** releasing a new version of your software.
+Bumped is a release system that makes it easy to perform actions **before** and **after** releasing a new version of your software.
 
 ## Installation
 
